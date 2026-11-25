@@ -1,4 +1,4 @@
-<h1 align="center">Sameh Morsy</h1>
+<h1 align="center">Sameh Talaia</h1>
 <p align="center">
   💻 Aspiring Software Engineer • 🔄 Ex Front-End Developer • 🇪🇬 Egypt
 </p>
